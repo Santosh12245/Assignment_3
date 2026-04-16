@@ -3,8 +3,7 @@ import { createRoot } from 'react-dom/client'
 import './index.css'
 import App from './App.jsx'
 import "./assets/global.css";
-import Button from './components/Button.jsx';
-import StatusCard from './components/StatusCard.jsx';
+import StatusCard from './assets/components/StatusCard.jsx';
 
 createRoot(document.getElementById('root')).render(
   <StrictMode>

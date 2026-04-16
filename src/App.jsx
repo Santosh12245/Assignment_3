@@ -3,12 +3,12 @@ import reactLogo from './assets/react.svg'
 import viteLogo from './assets/vite.svg'
 import heroImg from './assets/hero.png'
 import './App.css'
-import Header from './components/Header'
-import Footer from './components/Footer'
-import Button from './components/Button'
-import StatusCard from './components/StatusCard'
-import NavLink from './components/NavLink'
-import Navbar from './components/Navbar'
+import Header from './assets/components/Header'
+import Footer from './assets/components/Footer'
+import Button from './assets/components/Button'
+import StatusCard from './assets/components/StatusCard'
+import NavLink from './assets/components/NavLink'
+import Navbar from './assets/components/Navbar'
 
 
 
